@@ -17,7 +17,7 @@
 
 > ⚡ **A definitive, SEO-optimized directory of enterprise SaaS Live Chat widgets, real-time website visitor tracking platforms, AI customer support agents, and high-performance open-source self-hosted alternatives.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking?style=social)](https://github.com/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking?style=social)](https://github.com/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking?style=social)](https://github.com/ishandutta2007/Awesome-Live-Chat-Website-Visitor-Tracking/network/members)
 
 </div>
@@ -143,9 +143,9 @@ Self-hosted and open-source customer communication and visitor tracking systems 
 
 ### ⭐ Open-Source Solutions Comparison Table
 
-*The table is sorted by GitHub Stars in descending order.*
+*The table is sorted by GitHub_Stars in descending order.*
 
-| Project | Stars | Tech Stack | License | Core Capabilities |
+| Project | GitHub_Stars | Tech Stack | License | Core Capabilities |
 |:---|:---:|:---|:---|:---|
 | **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** | [![Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers) | JavaScript / TypeScript (Node.js, React) | MIT | Omnichannel live chat widget, enterprise team collaboration, matrix federation, visitor queue management |
 | **[PostHog](https://github.com/PostHog/posthog)** | [![Stars](https://img.shields.io/github/stars/PostHog/posthog?style=social&color=white)](https://github.com/PostHog/posthog/stargazers) | Python / TypeScript (Django, React, ClickHouse) | MIT | Real-time visitor session replay, event analytics, funnel tracking, user cohort paths, feature flags |
